@@ -1,1 +1,0 @@
-Add 'logo.png', 'hero.jpg', 'stump.jpg', 'weedeating.jpg', 'quote-bg.jpg' here.
