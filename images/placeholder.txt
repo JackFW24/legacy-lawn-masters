@@ -1,1 +1,0 @@
-Add 'logo.png' and 'hero.jpg' manually to this folder.
