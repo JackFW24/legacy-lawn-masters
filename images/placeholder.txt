@@ -1,1 +1,0 @@
-Add 'hero.jpg', 'logo.png', 'weedeating.jpg', and 'stump.jpg' manually to this folder.
