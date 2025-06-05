@@ -1,0 +1,1 @@
+Add 'logo.png', 'hero.jpg', 'weedeating.jpg', 'stump.jpg'.
